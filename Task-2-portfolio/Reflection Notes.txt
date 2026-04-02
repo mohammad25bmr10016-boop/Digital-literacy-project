@@ -1,0 +1,7 @@
+Task 2: Building a Student Digital Portfolio
+
+This reflection note summarises my progress on Task 2, where I built my foundational digital portfolio. Creating a digital presence is crucial today; therefore, I created and updated my accounts on three key platforms: GitHub, LinkedIn, and Kaggle.
+
+I chose GitHub because it's the primary platform used by developers to host code. My profile README contains my name, my field of study in Mechanical engineering and specialisation in AI and Robotics, as well as my current year and my goals for learning. I chose LinkedIn to establish a professional network and to ensure that the Education section of my profile reflects my current degree and expected graduation date. Finally, I chose to use Kaggle, as it's an ideal environment for training machine learning models and for practising data science.
+
+In the next four years, I will continue to use GitHub to store all code for any Python or AI/ML hackathon projects that I have completed and will complete in the future. I will use LinkedIn to connect with professionals in the industry, showcase my deployed websites, and eventually look for internship opportunities. I will use Kaggle to develop my predictive modelling skills. By maintaining a professional and minimalistic profile, I have begun to create a digital footprint that will benefit my future career.
